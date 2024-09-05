@@ -1,5 +1,5 @@
 <?php
-    //PENGGUNAAN TIPE DATA
+    //PENGGUNAAN TYPE DATA
 
     //INTEGER
     $jumlah = 90;
