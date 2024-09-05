@@ -1,5 +1,5 @@
 <?php
-//peulangan for
+//perulangan for
     for($i = 0; $i < 10; $i++){
         echo "<h2>ini perulangan ke-$1</h2>";
     }
@@ -22,7 +22,7 @@
 
     $books = [
         "Panduan Belajar PHP untuk pemula",
-        "Membangun Aplikasi Web dengan PHP",
+        "Membangun Apliikasi Web dengan PHP",
         "Tutorial PHP dan MySQL",
         "Membuat Chat Bot dengan PHP"
     ];
