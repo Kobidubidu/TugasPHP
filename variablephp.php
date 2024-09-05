@@ -1,4 +1,5 @@
 <?php
+   //var
    $nama = "najwan";
    $umur = 16;
    $tinggi = 165;
