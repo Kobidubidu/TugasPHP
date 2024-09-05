@@ -1,4 +1,5 @@
 <?php
+    //oplogika
     $a = true;
     $b = false;
 
