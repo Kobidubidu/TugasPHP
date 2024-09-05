@@ -1,5 +1,6 @@
 
 <?php 
+    //class
     class Buku {
         public $judul;
         public $penulis;
