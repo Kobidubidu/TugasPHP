@@ -1,5 +1,5 @@
 <?php
-//Konversi tipe data
+//Konversi tipe dataa
 $a = "32";
 $a = (int) $a; //  ubah nilai a menjadi interger
 $a = (float) $a; // ubah nilai a menjadi float
