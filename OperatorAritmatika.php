@@ -1,5 +1,5 @@
 <?php
-
+//aritmatika
 $a = 5;
 $b = 2;
 
