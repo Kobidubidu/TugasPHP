@@ -3,4 +3,5 @@
 
     $jawab = $suka ? "iya": "tidak";
     echo $jawab;
+    //ternary
 ?>
